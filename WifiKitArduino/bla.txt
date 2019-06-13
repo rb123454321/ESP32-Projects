@@ -1,0 +1,1 @@
+PasteableArduinoHTMLCode_statically_linked.exe "D:/Coding/__C_C++/ESP32-Projects/WifiKitArduino/controller_site.html" "D:/Coding/__C_C++/ESP32-Projects/WifikitArduino/pasteablearduinohtmlcode.txt"
